@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">n3tworktest</string>
+    <string name="item_1">Spiral</string>
+    <string name="item_2">Primes</string>
+    <string name="item_3">Circles</string>
+
+    <string name="task1_description">Write a function named  printMatrix, that takes an array of integers representing a 2d square matrix and the number of elements on each side as parameters. This function should start at the upper left hand corner of the matrix and print each element in a counterclockwise spiral</string>
+
+    <string name="task1_hint1">Enter array of integers, divided by spaces</string>
+
+    <string name="task1_hint2">Number of lines</string>
+
+    <string name="task1_description2"> Array element requirement: 0   &lt;=   a   ∈   m   &lt;=   2^31–1 \n lines counter requirement:  1   &lt;=   n   &lt;=   2^15 </string>
+
+    <string name="task2_description">Circles</string>
+
+    <string name="task3_description">Circles</string>
+</resources>
