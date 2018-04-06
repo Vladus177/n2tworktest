@@ -1,8 +1,10 @@
 package ru.vladus177.n3tworktest;
 
 
-public class Constant {
+class Constant {
 
-    final static long MAX_SUMM = 2147483647;
-    final static long MAX_LINES = 32768;
+    final static int MAX_LINES = 32768;
+    final static int TEXT_LENGTH = 9999;
+    final static int SCREEN_SIZE_LIMIT = 25;
+    final static int STROKE_WIDTH = 4;
 }
