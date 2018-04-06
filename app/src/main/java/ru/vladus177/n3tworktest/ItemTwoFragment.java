@@ -168,7 +168,9 @@ public class ItemTwoFragment extends Fragment implements View.OnClickListener {
 
     private boolean checkIsPrime(int n) {
 
-
+        if (n == 1) {
+            return false;
+        }
         int i;
         for (i = 2; i <= n / 2; i++) {
             if (n % i == 0) {
